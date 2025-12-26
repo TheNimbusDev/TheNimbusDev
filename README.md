@@ -30,13 +30,6 @@ I am a 20-year-old Security Engineer currently securing the ecosystem at **Micro
 
 ---
 
-## 📊 My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheNimbusDev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNimbu&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect with Me
 
 - 💼 Discord nimbus04810
